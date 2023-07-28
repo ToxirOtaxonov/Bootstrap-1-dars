@@ -1,0 +1,16 @@
+.main-menu{
+    margin-top: 100px;
+}
+.spanbold{
+    font-weight: bold;
+    border: 1px solid white;
+    background-color: cornflowerblue;
+    text-align: center;
+    height: 40px;
+}
+.span{
+    border: 1px solid white;
+    background-color: cornflowerblue;
+    text-align: center;
+    height: 40px;
+}

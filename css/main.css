@@ -1,0 +1,44 @@
+body{
+    background-color: #ff420d;
+}
+.main-menu{
+    margin-top: 100px;
+}
+.half{
+    height: 50px;
+    border: 2px solid #ffd2be;
+    background-color: #ff6641;
+    text-align: center;
+    color: white;
+}
+.fourth{
+    height: 50px;
+    border: 2px solid #ffd2be;
+    background-color: #ff6641;
+    text-align: center;
+    color: white;
+}
+.third{
+    height: 50px;
+    border: 2px solid #ffd2be;
+    background-color: #ff6641;
+    text-align: center;
+    color: white;
+}
+.fullwidth{
+    height: 50px;
+    border: 2px solid #ffd2be;
+    background-color: #ff6641;
+    text-align: center;
+    color: white;
+}
+.sixth{
+    height: 50px;
+    border: 2px solid #ffd2be;
+    background-color: #ff6641;
+    text-align: center;
+    color: white;
+}
+p{
+    margin-top: 10px;
+}

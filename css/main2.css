@@ -1,0 +1,39 @@
+.main-menu{
+    margin-top: 100px;
+}
+.class{
+    border: 10px solid whitesmoke;
+    height: 80px;
+    background-color: #ff5c0a;
+    color: white;
+    text-align: center;
+}
+.menu{
+    height: 50px;
+    background-color: #ff5c0a;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    border: 10px solid whitesmoke;
+}
+.section{
+    height: 50px;
+    border: 10px solid whitesmoke;
+    background-color: #ff5c0a;
+    color: white;
+    text-align: center;
+}
+.section1{
+    height: 60px;
+    border: 10px solid whitesmoke;
+    background-color: #ff5c0a;
+    color: white;
+    text-align: center;
+}
+.footer{
+    height: 50px;
+    border: 10px solid whitesmoke;
+    background-color: #ff5c0a;
+    color: white;
+    text-align: center;
+}
